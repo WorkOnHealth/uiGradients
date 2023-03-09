@@ -608,6 +608,10 @@
         "name": "Ukraine",
         "colors": ["#004FF9", "#FFF94C"]
     },
+  { 
+    "name": "Bergamo",
+    "colors": ["#FFD800", "#E7001E"]
+  },
     {
         "name": "Curiosity blue",
         "colors": ["#525252", "#3d72b4"]
